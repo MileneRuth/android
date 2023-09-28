@@ -80,8 +80,8 @@ nav > a:hover{
 }
 
 main {
-    min-width: 400px;
-    max-width: 900px;
+    min-width: 350px;
+    max-width: 790px;
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
